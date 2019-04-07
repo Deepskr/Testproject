@@ -10,6 +10,7 @@ public class Addition {
 		c--;
 		a=b+c+b;
 		a++;
+		b++;
 		System.out.println(a);
 
 	}
