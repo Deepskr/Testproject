@@ -11,6 +11,7 @@ public class Addition {
 		a=b+c+b;
 		a++;
 		b++;
+		a=123;
 		System.out.println(a);
 
 	}
