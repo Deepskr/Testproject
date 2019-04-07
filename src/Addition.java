@@ -12,6 +12,7 @@ public class Addition {
 		a++;
 		b++;
 		a=1236;
+		b=7898;
 		b=456;
 		System.out.println(a);
 
