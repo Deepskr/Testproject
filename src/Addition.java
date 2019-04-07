@@ -9,6 +9,7 @@ public class Addition {
 		b++;
 		c--;
 		a=b+c+b;
+		a++;
 		System.out.println(a);
 
 	}
