@@ -8,7 +8,7 @@ public class Addition {
 		c=10;
 		b++;
 		c--;
-		a=b+c+b;
+		a=b+c+c;
 		System.out.println(a);
 
 	}
