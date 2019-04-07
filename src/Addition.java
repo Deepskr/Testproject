@@ -6,6 +6,8 @@ public class Addition {
 		int a,b,c;
 		b=10;
 		c=10;
+		b++;
+		c++;
 		a=b+c;
 		System.out.println(a);
 
